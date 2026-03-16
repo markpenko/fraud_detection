@@ -1,2 +1,2 @@
-creditcard_2023.csv
-data/
+data/*
+!data/.gitkeep
