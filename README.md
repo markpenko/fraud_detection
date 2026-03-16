@@ -17,4 +17,19 @@ The dataset used in this project can be downloaded from Kaggle:
 
 > Note: The dataset is too large to include in this repository. Please download it manually and place it in the `data/` folder before running the scripts.
 
+## Project Structure
 
+fraud_detection
+│
+├── data/  
+│   └── .gitkeep        # placeholder for dataset directory
+│
+├── notebooks/  
+│   └── random_forest.ipynb   # exploratory analysis and model development
+│
+├── src/  
+│   └── random_forest.py      # implementation of the Random Forest model
+│
+├── requirements.txt          # project dependencies
+├── README.md                 # project documentation
+└── .gitignore                # ignored files and directories
