@@ -18,19 +18,19 @@ The dataset used in this project can be downloaded from Kaggle:
 > Note: The dataset is too large to include in this repository. Please download it manually and place it in the `data/` folder before running the scripts.
 
 ## Project Structure
-'''
+```
 fraud_detection
 │
-├── data/  
-│   └── .gitkeep        
+├── data
+│   └── .gitkeep
 │
-├── notebooks/  
-│   └── random_forest.ipynb   
+├── notebooks
+│   └── random_forest.ipynb
 │
-├── src/  
-│   └── random_forest.py      
+├── src
+│   └── random_forest.py
 │
-├── requirements.txt          
-├── README.md                 
-└── .gitignore                
-'''
+├── requirements.txt
+├── README.md
+└── .gitignore               
+```
